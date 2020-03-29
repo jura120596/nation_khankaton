@@ -16,7 +16,7 @@ body{
 	font-size: 16px;
 	color: #000;
 	line-height: 1;
-	overflow-x: hidden; 
+	overflow-x: hidden;
 
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
@@ -41,7 +41,7 @@ div{
 }
 
 .clear{
-	clear: both;	
+	clear: both;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -84,7 +84,7 @@ ul{
 .br{
 	-webkit-border-radius:	50%;
 	-moz-border-radius:		50%;
-	border-radius:			50%;	
+	border-radius:			50%;
 }
 
 .ops{
@@ -205,18 +205,18 @@ img{
 }
 
 .youtube-r{
-	position: relative; 
-	padding-bottom: 56.25%; 
-	height: 0; 
-	overflow:hidden; 
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow:hidden;
 }
 
 .youtube-r iframe{
-  position: absolute; 
-  top: 0; 
-  left: 0; 
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
-  height: 100%; 
+  height: 100%;
 }
 
 input[type="text"]::-webkit-input-placeholder { color: #000; }
@@ -431,7 +431,7 @@ textarea:focus{
 	top: 0;
 	bottom: 0;
 	width: 100%;
-	background: url('../img_handbage/top-2-left.png') no-repeat;
+	background: url('../img_nation/top-2-left.png') no-repeat;
 }
 
 .b-top2:after{
@@ -441,7 +441,7 @@ textarea:focus{
 	top: 0;
 	bottom: 0;
 	width: 100%;
-	background: url('../img_handbage/top-2-right.png') no-repeat 100% 0;
+	background: url('../img_nation/top-2-right.png') no-repeat 100% 0;
 }
 
 .top2-title{
@@ -549,7 +549,7 @@ textarea:focus{
 	top: -5px;
 	width: 40px;
 	height: 28px;
-	background: url('../img_handbage/main-metro.png');
+	background: url('../img_nation/main-metro.png');
 }
 
 .main-row{
@@ -578,7 +578,7 @@ textarea:focus{
 	position: absolute;
 	width: 100%;
 	-webkit-transform: rotate(-10.5deg);
-	-ms-transform: rotate(-10.5deg); 
+	-ms-transform: rotate(-10.5deg);
 	transform: rotate(-10.5deg);
 	-webkit-user-select: none;
 	-moz-user-select: none;
@@ -592,7 +592,7 @@ textarea:focus{
 	width: 264px;
 	height: 120px;
 	top: 9px;
-	background: url('../img_handbage/main-price-1.png') no-repeat;
+	background: url('../img_nation/main-price-1.png') no-repeat;
 }
 
 .main-row-box-2 .main-row-box-price{
@@ -600,7 +600,7 @@ textarea:focus{
 	width: 244px;
 	height: 117px;
 	top: 9px;
-	background: url('../img_handbage/main-price-2.png') no-repeat;
+	background: url('../img_nation/main-price-2.png') no-repeat;
 }
 
 .main-row-box-3 .main-row-box-price{
@@ -608,7 +608,7 @@ textarea:focus{
 	width: 224px;
 	height: 113px;
 	top: 9px;
-	background: url('../img_handbage/main-price-3.png') no-repeat;
+	background: url('../img_nation/main-price-3.png') no-repeat;
 }
 
 .main-row-box-1 .main-row-box-price span{
@@ -661,7 +661,7 @@ textarea:focus{
 	position: absolute;
 	width: 15px;
 	height: 8px;
-	background: url('../img_handbage/main-arrow-top.png') no-repeat;
+	background: url('../img_nation/main-arrow-top.png') no-repeat;
     top: -1px;
     right: -7px;
 }
@@ -670,7 +670,7 @@ textarea:focus{
 	letter-spacing: 1.5px;
 	position: absolute;
 	-webkit-transform: rotate(-90deg);
-	-ms-transform: rotate(-90deg); 
+	-ms-transform: rotate(-90deg);
 	transform: rotate(-90deg);
 	-webkit-transform-origin: 0 0;
 	-ms-transform-origin: 0 0;
@@ -697,7 +697,7 @@ textarea:focus{
 	position: absolute;
 	width: 8px;
 	height: 15px;
-	background: url('../img_handbage/main-arrow-right.png') no-repeat;
+	background: url('../img_nation/main-arrow-right.png') no-repeat;
     top: -7px;
     right: -1px;
 }
@@ -817,7 +817,7 @@ textarea:focus{
 	height: 13px;
 	left: 0;
 	top: 20px;
-	background: url('../img_handbage/catalog-check-green.png') no-repeat;
+	background: url('../img_nation/catalog-check-green.png') no-repeat;
 }
 
 .catalog-left{
@@ -858,7 +858,7 @@ textarea:focus{
 }
 
 .catalog-left-inner .item .info .info-p2{
-	margin-top: 5px;	
+	margin-top: 5px;
 }
 
 .catalog-right{
@@ -917,7 +917,7 @@ textarea:focus{
 .color li.active:after{
 	content: '';
 	position: absolute;
-	background: url('../img_handbage/catalog-check-white.png') no-repeat 50% 50%;
+	background: url('../img_nation/catalog-check-white.png') no-repeat 50% 50%;
 	left: 0;
 	right: 0;
 	bottom: 0;
@@ -1011,81 +1011,81 @@ textarea:focus{
 	background: #d03a77;
 }
 #budget .color-samolet2 {
-	background: url("../img_handbage/bags/polikarbonat/patterns/samolet2.png") no-repeat 50% 50%;
+	background: url("../img_nation/bags/polikarbonat/patterns/samolet2.png") no-repeat 50% 50%;
 	background-size: 100%;
 }
 #budget .color-pink_castle {
-	background: url("../img_handbage/bags/polikarbonat/patterns/pink-castle.png") no-repeat 50% 50%;
+	background: url("../img_nation/bags/polikarbonat/patterns/pink-castle.png") no-repeat 50% 50%;
 	background-size: 100%;
 }
 #budget .color-postcard {
-	background: url("../img_handbage/bags/polikarbonat/patterns/postcard.png") no-repeat 50% 50%;
+	background: url("../img_nation/bags/polikarbonat/patterns/postcard.png") no-repeat 50% 50%;
 	background-size: 100%;
 }
 #budget .color-new_york {
-	background: url("../img_handbage/bags/polikarbonat/patterns/new-york.png") no-repeat 50% 50%;
+	background: url("../img_nation/bags/polikarbonat/patterns/new-york.png") no-repeat 50% 50%;
 	background-size: 100%;
 }
 #budget .color-night_london {
-	background: url("../img_handbage/bags/polikarbonat/patterns/night-london.png") no-repeat 50% 50%;
+	background: url("../img_nation/bags/polikarbonat/patterns/night-london.png") no-repeat 50% 50%;
 	background-size: 100%;
 }
 #budget .color-london {
-	background: url("../img_handbage/bags/polikarbonat/patterns/london.png") no-repeat 50% 50%;
+	background: url("../img_nation/bags/polikarbonat/patterns/london.png") no-repeat 50% 50%;
 	background-size: 100%;
 }
 #budget .color-balloon {
-	background: url("../img_handbage/bags/polikarbonat/patterns/balloon.png") no-repeat 50% 50%;
+	background: url("../img_nation/bags/polikarbonat/patterns/balloon.png") no-repeat 50% 50%;
 	background-size: 100%;
 }
 #budget .color-venice {
-	background: url("../img_handbage/bags/polikarbonat/patterns/venice.png") no-repeat 50% 50%;
+	background: url("../img_nation/bags/polikarbonat/patterns/venice.png") no-repeat 50% 50%;
 	background-size: 100%;
 }
 #budget .color-red_butterfly {
-	background: url("../img_handbage/bags/polikarbonat/patterns/red-butterfly.png") no-repeat 50% 50%;
+	background: url("../img_nation/bags/polikarbonat/patterns/red-butterfly.png") no-repeat 50% 50%;
 	background-size: 100%;
 }
 #budget .color-ligth_blue_butterfly {
-	background: url("../img_handbage/bags/polikarbonat/patterns/ligth-blue-butterfly.png") no-repeat 50% 50%;
+	background: url("../img_nation/bags/polikarbonat/patterns/ligth-blue-butterfly.png") no-repeat 50% 50%;
 	background-size: 100%;
 }
 #budget .color-green_butterfly {
-	background: url("../img_handbage/bags/polikarbonat/patterns/green-butterfly.png") no-repeat 50% 50%;
+	background: url("../img_nation/bags/polikarbonat/patterns/green-butterfly.png") no-repeat 50% 50%;
 	background-size: 100%;
 }
 #budget .color-yellow_butterfly {
-	background: url("../img_handbage/bags/polikarbonat/patterns/yellow-butterfly.png") no-repeat 50% 50%;
+	background: url("../img_nation/bags/polikarbonat/patterns/yellow-butterfly.png") no-repeat 50% 50%;
 	background-size: 100%;
 }
 
 /*new styles end*/
 #budget .color-babochka{
-    background: url("../img_handbage/bags/polikarbonat/patterns/babochka.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/polikarbonat/patterns/babochka.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 #budget .color-parish{
-    background: url("../img_handbage/bags/polikarbonat/patterns/parish.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/polikarbonat/patterns/parish.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 #budget .color-samolet{
-    background: url("../img_handbage/bags/polikarbonat/patterns/samolet.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/polikarbonat/patterns/samolet.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 #budget .color-italia{
-    background: url("../img_handbage/bags/polikarbonat/patterns/italia.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/polikarbonat/patterns/italia.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 #budget .color-road{
-    background: url("../img_handbage/bags/polikarbonat/patterns/road.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/polikarbonat/patterns/road.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 #budget .color-lightparis{
-    background: url("../img_handbage/bags/polikarbonat/patterns/lightparis.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/polikarbonat/patterns/lightparis.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 #budget .color-greypattern{
-    background: url("../img_handbage/bags/polikarbonat/patterns/greypattern.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/polikarbonat/patterns/greypattern.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 
@@ -1366,7 +1366,7 @@ textarea:focus{
 	width: 24px;
 	height: 24px;
 	border: 1px solid #fc4482;
-	background: url('../img_handbage/catalog_ch-check.png') no-repeat 50% 50%;
+	background: url('../img_nation/catalog_ch-check.png') no-repeat 50% 50%;
 }
 
 .catalog_ch-center{
@@ -1411,35 +1411,35 @@ textarea:focus{
     background: #DD3319;
 }
 .catalog_ch-right .color-bear {
-    background: url("../img_handbage/bags/covers/patterns/1.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/covers/patterns/1.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 .catalog_ch-right .color-gepard {
-    background: url("../img_handbage/bags/covers/patterns/3.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/covers/patterns/3.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 .catalog_ch-right .color-lips {
-    background: url("../img_handbage/bags/covers/patterns/5.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/covers/patterns/5.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 .catalog_ch-right .color-abstract1 {
-    background: url("../img_handbage/bags/covers/patterns/7.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/covers/patterns/7.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 .catalog_ch-right .color-abstract2 {
-    background: url("../img_handbage/bags/covers/patterns/8.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/covers/patterns/8.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 .catalog_ch-right .color-abstract3 {
-    background: url("../img_handbage/bags/covers/patterns/10.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/covers/patterns/10.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 .catalog_ch-right .color-abstract4 {
-    background: url("../img_handbage/bags/covers/patterns/11.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/covers/patterns/11.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 .catalog_ch-right .color-abstract5 {
-    background: url("../img_handbage/bags/covers/patterns/12.png") no-repeat 50% 50%;
+    background: url("../img_nation/bags/covers/patterns/12.png") no-repeat 50% 50%;
     background-size: 100%;
 }
 
@@ -1530,7 +1530,7 @@ textarea:focus{
 	outline: none;
 }
 
-.slick-arrow{ 
+.slick-arrow{
 	position: absolute;
 	text-indent: -9999px;
 	font-size: 0;
@@ -1542,20 +1542,20 @@ textarea:focus{
 
 .slick-prev{
 	left: -100px;
-	background: url('../img_handbage/foto-arrow-left.png') no-repeat;
+	background: url('../img_nation/foto-arrow-left.png') no-repeat;
 }
 
 .slick-next{
 	right: -100px;
-	background: url('../img_handbage/foto-arrow-right.png') no-repeat;
+	background: url('../img_nation/foto-arrow-right.png') no-repeat;
 }
 
 .slick-prev:hover{
-	background-image: url('../img_handbage/foto-arrow-left-hover.png');
+	background-image: url('../img_nation/foto-arrow-left-hover.png');
 }
 
 .slick-next:hover{
-	background-image: url('../img_handbage/foto-arrow-right-hover.png');
+	background-image: url('../img_nation/foto-arrow-right-hover.png');
 }
 
 .slick-dots{
@@ -1597,14 +1597,14 @@ textarea:focus{
 .foto-slider-list .slick-next{
 	width: 18px;
 	height: 34px;
-	margin-top: -17px;	
-	background: url('../img_handbage/foto-arrow-right-list.png') no-repeat;
+	margin-top: -17px;
+	background: url('../img_nation/foto-arrow-right-list.png') no-repeat;
 	right: 15px;
 	z-index: 1;
 }
 
 .foto-slider-list .slick-next:hover{
-	background-image: url('../img_handbage/foto-arrow-right-list-hover.png');
+	background-image: url('../img_nation/foto-arrow-right-list-hover.png');
 }
 
 .b-video{
@@ -1658,7 +1658,7 @@ textarea:focus{
 .b-prod{
 	padding-top: 90px;
 	padding-bottom: 66px;
-	background: #252525 url('../img_handbage/bg_logos.png');
+	background: #252525 url('../img_nation/bg_logos.png');
 	color: #3c434d;
 }
 
@@ -1741,7 +1741,7 @@ textarea:focus{
 }
 
 .teh-row-left-left_img{
-	
+
 }
 
 .teh-row-left-left_img-text{
@@ -1846,7 +1846,7 @@ textarea:focus{
 }
 
 .b-deli{
-	
+
 }
 
 .deli-title{
@@ -1876,7 +1876,7 @@ textarea:focus{
 }
 
 .deli-bg{
-	background: url('../img_handbage/deli.jpg') no-repeat;
+	background: url('../img_nation/deli.jpg') no-repeat;
 }
 
 .deli-bg .container{
@@ -1953,7 +1953,7 @@ textarea:focus{
 }
 
 .shop-bg{
-	background: url('../img_handbage/shop.jpg') no-repeat;
+	background: url('../img_nation/shop.jpg') no-repeat;
 	background-size: 80%;
 }
 
@@ -2067,7 +2067,7 @@ textarea:focus{
 }
 
 .contact-bottom-politika{
-	margin-top: 33px;	
+	margin-top: 33px;
 }
 
 .contact-bottom-politika a{
@@ -2107,7 +2107,7 @@ textarea:focus{
 	top: 40px;
 	width: 22px;
 	height: 21px;
-	background: url('../img_handbage/popup-close.png') no-repeat;
+	background: url('../img_nation/popup-close.png') no-repeat;
 	z-index: 1;
 }
 
@@ -2184,7 +2184,7 @@ textarea:focus{
 .popup-product-right:after{
     content: '';
     position: absolute;
-    background: url(../img_handbage/catalog-check-white.png) no-repeat 50% 50%;
+    background: url(../img_nation/catalog-check-white.png) no-repeat 50% 50%;
     left: 0;
     right: 0;
     bottom: 0;
@@ -2399,8 +2399,8 @@ textarea:focus{
 	left: 0;
 	top: 14px;
 	-webkit-transform: rotate(6deg);
-	-ms-transform: rotate(6deg); 
-	transform: rotate(6deg);	
+	-ms-transform: rotate(6deg);
+	transform: rotate(6deg);
 }
 
 .thank-main-left-price-item-price span:after{
@@ -2412,8 +2412,8 @@ textarea:focus{
 	left: 0;
 	top: 16px;
 	-webkit-transform: rotate(-6deg);
-	-ms-transform: rotate(-6deg); 
-	transform: rotate(-6deg);	
+	-ms-transform: rotate(-6deg);
+	transform: rotate(-6deg);
 }
 
 .thank-main-left-price-item-price a{
@@ -2447,7 +2447,7 @@ textarea:focus{
 }
 
 .b-thank-view{
-	background: url('../img_handbage/thank-bg.png');
+	background: url('../img_nation/thank-bg.png');
 	min-height: 500px;
 }
 

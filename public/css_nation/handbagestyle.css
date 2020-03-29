@@ -31,8 +31,8 @@ html {
 
 body {
     background-color: #ffffff;
-    /*background-image: url("../img_handbage/fon_svet_svetlyy_tochki_47456_3840x2400 (1).jpg");*/
-    background-image: url("../img_handbage/bg2.webp");
+    /*background-image: url("../img_nation/fon_svet_svetlyy_tochki_47456_3840x2400 (1).jpg");*/
+    background-image: url("../img_nation/bg2.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -154,7 +154,7 @@ body {
     position: absolute;
     width: 35px;
     height: 35px;
-    background: url('../img_handbage/insta.png') no-repeat;
+    background: url('../img_nation/insta.png') no-repeat;
     right:-40px;
     top: 12px;
     background-size: 35px;
@@ -554,7 +554,7 @@ body {
 }
 
 .b-teh {
-    background: url("../img_handbage/exbody.png");
+    background: url("../img_nation/exbody.png");
 
 }
 
@@ -606,7 +606,7 @@ a {
     letter-spacing: 3px;
     line-height: 100px !important;
     height:100px;
-    /*background: url("../img_handbage/bg_min.png");*/
+    /*background: url("../img_nation/bg_min.png");*/
     background: #ffb12e;
     border-bottom:none;
     margin: 0;
@@ -615,7 +615,7 @@ a {
 .b-top2{
     font-family:"CorkiRegular";
     letter-spacing: 3px;
-    /*background: url("../img_handbage/bg_min.png");*/
+    /*background: url("../img_nation/bg_min.png");*/
     background: #ffb12e;
     color: black;
     border-bottom:none;
@@ -880,7 +880,7 @@ a {
     position: absolute;
     width: 28px;
     height: 28px;
-    background: url('../img_handbage/whatsapp.svg') no-repeat;
+    background: url('../img_nation/whatsapp.svg') no-repeat;
     left: -30px;
     top: -3px;
 }
@@ -889,7 +889,7 @@ a {
     position: absolute;
     width: 28px;
     height: 28px;
-    background: url('../img_handbage/viber.svg') no-repeat;
+    background: url('../img_nation/viber.svg') no-repeat;
     left: -60px;
     top: -3px;
 }

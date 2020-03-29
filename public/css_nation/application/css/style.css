@@ -1306,7 +1306,7 @@
     height: 35px !important;
     box-shadow: 1px 0px red, 0px 1px red, -1px 0px red, 0px -1px red, 0px -3px white, 3px 0px white, 0px 3px white, -3px 0px white, -2px -2px white, 2px 2px white, -2px 2px white, 2px -2px white;
     border-radius: 50%;
-	float: left; 
+	float: left;
 	margin-left: 5px !important;
 	position: inherit;
 }
@@ -1334,7 +1334,7 @@
     height: 117px;
     top: 100px;
     line-height: 34px;
-    background: url(../../../img_handbage/main-price-2.png) no-repeat;
+    background: url(../../../img_nation/main-price-2.png) no-repeat;
 }
 
 .page .main-row-box-price-page div{
@@ -1352,7 +1352,7 @@
     font-size: 20px;
 }
 .page .old-price-page {
-	color: black !important;	
+	color: black !important;
     text-decoration: line-through;
     top: unset !important;
     bottom: unset !important;
