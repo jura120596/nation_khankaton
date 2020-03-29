@@ -22,4 +22,4 @@ Route::post('/project/step/complete', 'ProjectController@completeStep')->name('p
 Route::post('/project/step/add', 'ProjectController@addStep')->name('project.add_step');
 Route::post('/project/step/add/photo', 'ProjectController@addStepPhoto')->name('project.add_step_photo');
 Route::post('/project/step/delete', 'ProjectController@deleteStep')->name('project.delete_step');
-Route::get('/admin', 'NationController@manager')->name('manager');
+Route::get('/admin', 'NationController@manager')->name('manager')->middleware('auth:web');

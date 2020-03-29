@@ -11,9 +11,11 @@
 |
 */
 
-Route::get('/main', 'Controller@main')->name('root');
-Route::resource('admin/spheres', 'Admin\SpheresController');
-Route::resource('admin/projects', 'Admin\ProjectsController');
-Route::resource('bag-colors', 'Admin\BagColorsController');
-Route::resource('newses', 'Admin\NewsController');
-Route::resource('pictures', 'Admin\PicturesController');
+Route::resource('admin/spheres', 'Admin\SpheresController')->middleware('auth:web');
+Route::resource('admin/projects', 'Admin\ProjectsController')->middleware('auth:web');
+Route::resource('bag-colors', 'Admin\BagColorsController')->middleware('auth:web');
+Route::resource('newses', 'Admin\NewsController')->middleware('auth:web');
+Route::resource('pictures', 'Admin\PicturesController')->middleware('auth:web');
+
+Auth::routes();
+Route::get('/home', 'HomeController@index')->name('home');
